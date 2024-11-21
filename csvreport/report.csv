@@ -1,0 +1,17 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1732173468390,1468,webmailchangepond,200,OK,Thread Group 1-1,text,true,,710223,132,1,1,https://webmail.changepond.com/webmail/,1355,0,1101
+1732173469864,436,Inboxcp,200,OK,Thread Group 1-1,text,true,,710251,132,1,1,https://webmail.changepond.com/webmail/#mail/720499517/INBOX,200,0,0
+1732173470301,441,Starredcp,200,OK,Thread Group 1-1,text,true,,710251,132,1,1,https://webmail.changepond.com/webmail/#mail/720499517/INBOX/filter%3Aflagged,163,0,0
+1732173470743,667,sent,200,OK,Thread Group 1-1,text,true,,710251,132,1,1,https://webmail.changepond.com/webmail/#mail/720499517/Sent,184,0,0
+1732173471410,668,drafts,200,OK,Thread Group 1-1,text,true,,710236,132,1,1,https://webmail.changepond.com/webmail/#mail/720499517/Drafts,197,0,0
+1732173472079,555,spam,200,OK,Thread Group 1-1,text,true,,710259,132,1,1,https://webmail.changepond.com/webmail/#mail/720499517/Spam,161,0,0
+1732173472635,565,trash,200,OK,Thread Group 1-1,text,true,,710251,132,1,1,https://webmail.changepond.com/webmail/#mail/720499517/Trash,205,0,0
+1732173473200,641,notes,200,OK,Thread Group 1-1,text,true,,710259,132,1,1,https://webmail.changepond.com/webmail/#mail/720499517/Notes,192,0,0
+1732173473841,682,contactsall,200,OK,Thread Group 1-1,text,true,,710228,132,1,1,https://webmail.changepond.com/webmail/#contacts/all/p1,191,0,0
+1732173474524,575,contactspersonal,200,OK,Thread Group 1-1,text,true,,710251,132,1,1,https://webmail.changepond.com/webmail/#contacts/personal/,142,0,0
+1732173475100,706,contactsglobal,200,OK,Thread Group 1-1,text,true,,710251,132,1,1,https://webmail.changepond.com/webmail/#contacts/team/p1,261,0,0
+1732173475807,943,calendar,200,OK,Thread Group 1-1,text,true,,710228,132,1,1,https://webmail.changepond.com/webmail/#calendar,176,0,0
+1732173476751,649,filescp,200,OK,Thread Group 1-1,text,true,,710236,132,1,1,https://webmail.changepond.com/webmail/#files,155,0,0
+1732173477401,551,releasemail,200,OK,Thread Group 1-1,text,true,,710251,132,1,1,https://webmail.changepond.com/webmail/#release_mail,158,0,0
+1732173477953,521,tasks,200,OK,Thread Group 1-1,text,true,,710251,132,1,1,https://webmail.changepond.com/webmail/#tasks,161,0,0
+1732173478476,445,settings,200,OK,Thread Group 1-1,text,true,,710259,132,1,1,https://webmail.changepond.com/webmail/#settings/common,181,0,0
